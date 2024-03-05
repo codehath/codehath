@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-Currently I'm delving into the world of:
-🔥 Full Stack Web Developement - Python(Flask and Django) and Javascript(Svelte/SvelteKit and React Frameworks)  
-🔥 Shell Scripting and Automation  
-🔥 Web Design and UI/UX (Figma)  
-🔥 AI (LangChain, Stable Diffusion Models for Imaging and LLM APIs)  
+## About me
+
+dsgfdghfdshdghsd
+
+## Currently I'm delving into the world of:
+- 🔥 Full Stack Web Developement - Python(Flask and Django) and Javascript(Svelte/SvelteKit and React Frameworks)
+- 🔥 Shell Scripting and Automation
+- 🔥 Web Design and UI/UX (Figma)
+- 🔥 AI (LangChain, Stable Diffusion Models for Imaging and LLM APIs)
+
 
 <!--
 **codehath/codehath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
