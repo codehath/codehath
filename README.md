@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Javascript (Svelte/SvelteKit and React Frameworks) and how to use AI (Stable Diffusion Models and LLM APIs)
-- 👯 I’m looking to collaborate on AI/Automation projects
+Currently I'm delving into the world of:
+🔥 Full Stack Web Developement - Python(Flask and Django) and Javascript(Svelte/SvelteKit and React Frameworks)
+🔥 Shell Scripting and Automation
+🔥 Web Design and UI/UX (Figma)
+🔥 AI (LangChain, Stable Diffusion Models for Imaging and LLM APIs)
 
 <!--
 **codehath/codehath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
