@@ -17,7 +17,7 @@ I am a freelance Full Stack Web Developer
 In the past, I have worked as a Personal Trainer and Stock Trader.
 
 #### Interests
-I'm an avid futurist
+<!--I'm an avid futurist-->
 
 <!--
 **codehath/codehath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
