@@ -85,11 +85,12 @@ Creating operational efficiency with generative AI models through prompt enginee
 💬 Ask me about ...
 -->
 
+<!--
 #### Previous Work
 In the past, I have worked as a Personal Trainer and Stock Trader.
 
 #### Interests
-<!--I'm an avid futurist
+I'm an avid futurist
 Crazy about fitness, am a powerlifter and avid climber
 cooking - foodie
 fashion?
