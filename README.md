@@ -6,13 +6,13 @@
 I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I thrive on architecting performant solutions to meet the specific challenges faced by clients. I am dedicated to lifelong learning and am continuously exploring and adopting new tools and frameworks to expand my skillset.
 
 Key Specializations:
-- Cross-Stack Proficiency:
+- 🔥Cross-Stack Proficiency:🔥
   Expertise in diverse technology stacks MERN (MongoDB, Express.js, React, Node.js), LAMP (Linux, Apache, MySQL, PHP) and Flask(Python).
-- Frontend Development:
+- 🔥Frontend Development:🔥
   I excel in designing visually stunning, responsive, and user-friendly interfaces that captivate and engage users.
-- Backend Development:
+- 🔥Backend Development:🔥
   I thrive on coding optimized, performant, and cleanly structured backends that power seamless user experiences.
-- AI/ML Enthusiast:
+- 🔥AI/ML Enthusiast:🔥
   Passionate about exploring the potential of artificial intelligence and machine learning to enhance software solutions.
 
   
@@ -60,15 +60,18 @@ Software Engineering Bootcamp @ Makers Academy
 BSc Computer Science @ Newcastle University
 
 #### Currently I'm delving into the world of:
-- 🔥 Full Stack Web Developement - Python(Flask and Django) and Javascript(React and Svelte/SvelteKit Frameworks)
-- 🔥 Shell Scripting and Automation
-- 🔥 Web Design and UI/UX (Tailwind.css, shadcnui, Figma)
-- 🔥 AI/ML (LangChain, Stable Diffusion Models for Imaging and various LLM APIs)
+- 🔨 Full Stack Web Developement - Python(Flask and Django) and Javascript(React and Svelte/SvelteKit Frameworks)
+- 👨‍💻 Shell Scripting and Automation
+- 🙈 Web Design and UI/UX (Tailwind.css, shadcnui, Figma)
+- 🤖 AI/ML (LangChain, Stable Diffusion Models for Imaging and various LLM APIs)
+🤖🔧🔨👀🙈🦚👨‍💻🤸‍♂️
 
+<!--
 - 🔭 coding automation projects & relaunching my personal website.
 🌱 learning Docker & Shell scripting (Both are SO COOL!)
 📚 Reading:
 💬 Ask me about ...
+-->
 
 #### Previous Work
 In the past, I have worked as a Personal Trainer and Stock Trader.
