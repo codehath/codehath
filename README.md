@@ -1,6 +1,5 @@
-### Hi there 👋
 ### Full Stack Developer | Software Engineer
-#### Specialisms: UI/UX • Bash Scripting • Data Science and Analytics • AI Automation Workflows
+#### UI/UX • Bash Scripting • Data Science and Analytics • AI Automation Workflows
 
 #### About me
 I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I specialize in crafting visually stunning and intuitive websites on the frontend, complemented by robust and elegant backend solutions. My love for problem-solving drives me to excel in backend development, where I architect solutions and implement data storage and API integration.
@@ -27,9 +26,13 @@ I'm into open source
 Tech wise I am dabbling in React, Svelte, shell scripting and AI/ML. Historically I've focused on Python, Java and the (something I did at Uni...).
 But I love learning new technologies and do that as much as I can.
 
+Cross-Stack Proficiency:
+Versatile developer with expertise in diverse technology stacks, including LAMP (Linux, Apache, MySQL, PHP), MERN (MongoDB, Express.js, React, Node.js), Python, and Flask. Continuously exploring and adopting new tools and frameworks to expand skillset.
+
+<!--
 Cross Stack proficiency
 LAMP, MERN, Python and Flask and always looking to try out new tools to add to my repertoire.
-RESTful API integration? - wtf are restful APIs doh?
+
 
 Natural Language Processing (NLP)
 Generative AI models
@@ -37,10 +40,10 @@ Machine Learning pipelines - getting into this?
 Prompt engineering
 
 Creating operational efficiency with generative AI models through prompt engineering...
-
+-->
 #### Education
-...  
-...  
+Software Engineering Bootcamp @ Makers Academy
+BSc Computer Science @ Newcastle University  
 
 #### Currently I'm delving into the world of:
 - 🔥 Full Stack Web Developement - Python(Flask and Django) and Javascript(React and Svelte/SvelteKit Frameworks)
