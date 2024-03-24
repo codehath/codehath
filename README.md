@@ -1,4 +1,4 @@
-### Full Stack Developer | Software Engineer
+<!-- ### Full Stack Developer | Software Engineer -->
 #### UI/UX • Bash Scripting • Data Science and Analytics • AI Automation Workflows
 
 
