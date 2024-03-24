@@ -3,12 +3,13 @@
 ***
 
 ## About me
-___
 I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I thrive on architecting performant solutions to meet the specific challenges faced by clients. I am dedicated to lifelong learning and am continuously exploring and adopting new tools and frameworks to expand my skillset.
 
-##### Education
+
+## Education
 Software Engineering Bootcamp @ Makers Academy  
 BSc Computer Science @ Newcastle University
+
 
 ## Projects
 
@@ -18,7 +19,8 @@ BSc Computer Science @ Newcastle University
 | [**Acebook**](https://github.com/fantastito/Acebook) | A social media web app. | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Mongodb](https://img.shields.io/badge/MongoDB-%231572B6.svg?style=flat&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
 | [**Acebook Mobile**](https://github.com/fantastito/Acebook-Mobile) | An iOS frontend for a social media app. | ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-0D9AFF?style=flat&logo=Cloudinary&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) |
 
-Key Specializations:
+
+## Key Specializations:
 - 🔥Cross-Stack Proficiency:
   Expertise in diverse technology stacks MERN (MongoDB, Express.js, React, Node.js), LAMP (Linux, Apache, MySQL, PHP) and Flask(Python).
 - 🔥Frontend Development:
@@ -70,7 +72,7 @@ Creating operational efficiency with generative AI models through prompt enginee
 -->
 
 
-#### Currently I'm delving into the world of:
+## Currently I'm delving into the world of:
 - 🔨 Full Stack Web Developement - Python(Flask and Django) and Javascript(React and Svelte/SvelteKit Frameworks)
 - 👨‍💻 Shell Scripting and Automation
 - 👀 Web Design and UI/UX (Tailwind.css, shadcnui, Figma)
