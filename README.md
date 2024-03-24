@@ -56,8 +56,8 @@ Prompt engineering
 Creating operational efficiency with generative AI models through prompt engineering...
 -->
 #### Education
-Software Engineering Bootcamp @ Makers Academy
-BSc Computer Science @ Newcastle University  
+Software Engineering Bootcamp @ Makers Academy  
+BSc Computer Science @ Newcastle University
 
 #### Currently I'm delving into the world of:
 - 🔥 Full Stack Web Developement - Python(Flask and Django) and Javascript(React and Svelte/SvelteKit Frameworks)
@@ -78,8 +78,8 @@ In the past, I have worked as a Personal Trainer and Stock Trader.
 Crazy about fitness, am a powerlifter and avid climber
 cooking - foodie
 fashion?
-
-Outside of technology, I loves photography 📸, cooking 🥘 and drinking a lot of tea ☕🍵!
+Business, economics
+the interplay of history, culture on business and economics
 -->
 
 <!--
