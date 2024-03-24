@@ -1,9 +1,7 @@
 ### Hi there 👋
-Full Stack Developer | Software Engineer
+### Full Stack Developer | Software Engineer
 Specialising in...
- 
-### UI/UX • Bash Scripting • Data Science and Analytics • AI Automation Workflows
-### • Snowboarder, ClimbeSoftware Engineer • Speaker • Avid r and Alpinist
+#### UI/UX • Bash Scripting • Data Science and Analytics • AI Automation Workflows
 
 #### About me
 I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I specialize in crafting visually stunning and intuitive websites on the frontend, complemented by robust and elegant backend solutions. My love for problem-solving drives me to excel in backend development, where I architect solutions and implement data storage and API integration.
