@@ -3,6 +3,7 @@
 ***
 
 ### About me
+___
 I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I thrive on architecting performant solutions to meet the specific challenges faced by clients. I am dedicated to lifelong learning and am continuously exploring and adopting new tools and frameworks to expand my skillset.
 
 ##### Education
