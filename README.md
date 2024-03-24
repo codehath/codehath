@@ -12,11 +12,14 @@ Love problem solving and architecting solutions.
 
 Key Specializations:
 - Cross-Stack Proficiency:
-  Expertise in diverse technology stacks, including LAMP (Linux, Apache, MySQL, PHP), MERN (MongoDB, Express.js, React, Node.js) and Flask(Python).
-- Frontend Development: I excel in designing beautiful, responsive, and user-friendly interfaces that captivate and engage users.
-- Backend Development: I thrive on coding optimized, performant, and cleanly structured backends that power seamless user experiences.
-- DevOps: Proficient in deploying and maintaining scalable and reliable infrastructure to support continuous integration and delivery pipelines.
-- AI/ML Enthusiast: Passionate about exploring the potential of artificial intelligence and machine learning to enhance software solutions.
+  Expertise in diverse technology stacks MERN (MongoDB, Express.js, React, Node.js), LAMP (Linux, Apache, MySQL, PHP) and Flask(Python).
+- Frontend Development:
+  I excel in designing visually stunning, responsive, and user-friendly interfaces that captivate and engage users.
+- Backend Development:
+  I thrive on coding optimized, performant, and cleanly structured backends that power seamless user experiences.
+<!-- - DevOps: Proficient in deploying and maintaining scalable and reliable infrastructure to support continuous integration and delivery pipelines.-->
+- AI/ML Enthusiast:
+  Passionate about exploring the potential of artificial intelligence and machine learning to enhance software solutions.
 
 <!--
 I love designing beautiful, responsive and user-friendly frontends and integrating them with  I love coding optimised/performant and cleanly coded backends and deploying them.
