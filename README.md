@@ -5,10 +5,7 @@
 #### About me
 Continuously exploring and adopting new tools and frameworks to expand skillset.
 
-I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I thrive on architecting performant solutions to meet the specific challenges faced by clients. I specialize in crafting visually stunning and intuitive websites on the frontend, complemented by robust and elegant backend solutions. My love for problem-solving drives me to excel in backend development, where I architect solutions and implement data storage and API integration.
-
-I am a freelance Full Stack Developer(proficient in both Frontend and Backend with a little sprinkling of DevOps), Software Engineer, and AI/ML enthusiast. I thrive on building ... websites, designing visually stunning, responsive, and user-friendly frontends, and coding robust, performant, elegant, and maintainable backend solutions.
-Love problem solving and architecting solutions. 
+I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I thrive on architecting performant solutions to meet the specific challenges faced by clients.
 
 Key Specializations:
 - Cross-Stack Proficiency:
@@ -17,9 +14,21 @@ Key Specializations:
   I excel in designing visually stunning, responsive, and user-friendly interfaces that captivate and engage users.
 - Backend Development:
   I thrive on coding optimized, performant, and cleanly structured backends that power seamless user experiences.
-<!-- - DevOps: Proficient in deploying and maintaining scalable and reliable infrastructure to support continuous integration and delivery pipelines.-->
 - AI/ML Enthusiast:
   Passionate about exploring the potential of artificial intelligence and machine learning to enhance software solutions.
+
+  
+<!--
+I specialize in crafting visually stunning and intuitive websites on the frontend, complemented by robust and elegant backend solutions. My love for problem-solving drives me to excel in backend development, where I architect solutions and implement data storage and API integration.
+
+I am a freelance Full Stack Developer(proficient in both Frontend and Backend with a little sprinkling of DevOps), Software Engineer, and AI/ML enthusiast. I thrive on building ... websites, designing visually stunning, responsive, and user-friendly frontends, and coding robust, performant, elegant, and maintainable backend solutions.
+Love problem solving and architecting solutions. 
+
+
+
+
+- DevOps: Proficient in deploying and maintaining scalable and reliable infrastructure to support continuous integration and delivery pipelines.
+-->
 
 <!--
 I love designing beautiful, responsive and user-friendly frontends and integrating them with  I love coding optimised/performant and cleanly coded backends and deploying them.
@@ -27,11 +36,12 @@ I architect solutions
 data storage, API integration
 
 I'm into open source
--->
-
 
 Tech wise I am dabbling in React, Svelte, shell scripting and AI/ML. Historically I've focused on Python, Java and the (something I did at Uni...).
 But I love learning new technologies and do that as much as I can.
+-->
+
+
 
 
 
