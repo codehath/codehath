@@ -1,14 +1,18 @@
 ### Full Stack Developer | Software Engineer
 #### UI/UX • Bash Scripting • Data Science and Analytics • AI Automation Workflows
 
+
 #### About me
-I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I specialize in crafting visually stunning and intuitive websites on the frontend, complemented by robust and elegant backend solutions. My love for problem-solving drives me to excel in backend development, where I architect solutions and implement data storage and API integration.
+Continuously exploring and adopting new tools and frameworks to expand skillset.
+
+I'm a freelance Full Stack Developer proficient in frontend and backend domains (with a sprinkle of DevOps), as well as a Software Engineer with a passion for AI/ML. I thrive on architecting performant solutions to meet the specific challenges faced by clients. I specialize in crafting visually stunning and intuitive websites on the frontend, complemented by robust and elegant backend solutions. My love for problem-solving drives me to excel in backend development, where I architect solutions and implement data storage and API integration.
 
 I am a freelance Full Stack Developer(proficient in both Frontend and Backend with a little sprinkling of DevOps), Software Engineer, and AI/ML enthusiast. I thrive on building ... websites, designing visually stunning, responsive, and user-friendly frontends, and coding robust, performant, elegant, and maintainable backend solutions.
 Love problem solving and architecting solutions. 
 
 Key Specializations:
-
+- Cross-Stack Proficiency:
+  Expertise in diverse technology stacks, including LAMP (Linux, Apache, MySQL, PHP), MERN (MongoDB, Express.js, React, Node.js) and Flask(Python).
 - Frontend Development: I excel in designing beautiful, responsive, and user-friendly interfaces that captivate and engage users.
 - Backend Development: I thrive on coding optimized, performant, and cleanly structured backends that power seamless user experiences.
 - DevOps: Proficient in deploying and maintaining scalable and reliable infrastructure to support continuous integration and delivery pipelines.
@@ -26,8 +30,7 @@ I'm into open source
 Tech wise I am dabbling in React, Svelte, shell scripting and AI/ML. Historically I've focused on Python, Java and the (something I did at Uni...).
 But I love learning new technologies and do that as much as I can.
 
-Cross-Stack Proficiency:
-Versatile developer with expertise in diverse technology stacks, including LAMP (Linux, Apache, MySQL, PHP), MERN (MongoDB, Express.js, React, Node.js), Python, and Flask. Continuously exploring and adopting new tools and frameworks to expand skillset.
+
 
 <!--
 Cross Stack proficiency
